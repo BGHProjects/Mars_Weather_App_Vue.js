@@ -1,4 +1,4 @@
-Mars_Weather_App_Vue.js
+#Mars_Weather_App_Vue.js
 A Mars Weather SPA made with Vue.js and the NASA API (https://api.nasa.gov/)
 
 Displays the week's Mars weather details, as recorded from the Mars Insight Lander. Details include the current sol (day of the Martian year), maximum atmospheric temperature, minimum atmospheric temperature, average windspeed and average atmospheric pressure for the day.
